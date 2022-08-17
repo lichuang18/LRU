@@ -9,11 +9,10 @@
 
 ### usage
 > 基本执行
-> make
-> ./main
-
-
 ```
+make
+./main
+
 in main.c file
 #define N        //表示缓存大小
 #define NUM_KEY  //表示执行多少次插入
